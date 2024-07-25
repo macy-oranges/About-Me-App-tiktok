@@ -61,6 +61,9 @@ struct ContentView: View {
                         .cornerRadius(15)
                     Text("Sewing")
                 }
+                HStack{
+                    
+                }
             }
             .padding(.all, 20.0)
             .background(Rectangle()
